@@ -111,23 +111,22 @@ label {
   text-transform: uppercase;
 }
 
-/* @media screen { */
+@media screen {
 #treatments-report th{
   position: sticky;
   top: 0px;
-  background: orange;
+  background: gray;
 }
 
 #dailystats-report th{
   position: sticky;
   top: 0px;
-  background: red;
+  background: gray;
 }
 
 #success-grid th{
   position: sticky;
   top: 0px;
-  background: blue;
+  background: gray;
 }
-
-/* } */
+}
