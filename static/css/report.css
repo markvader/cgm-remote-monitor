@@ -110,3 +110,11 @@ label {
   font-size: 12pt;
   text-transform: uppercase;
 }
+
+@media screen {
+	#treatments-report #dailystats-report #success-grid th{
+		position: sticky;
+		top: 0px;
+		background: gray;
+	}
+}
