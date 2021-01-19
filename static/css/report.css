@@ -111,7 +111,7 @@ label {
   text-transform: uppercase;
 }
 
-@media screen {
+@media not print {
 #treatments-report th{
   position: sticky;
   top: 0px;
